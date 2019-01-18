@@ -3,7 +3,7 @@ Brexocoin Core staging tree 1.0.0.0
 
 `master:` [![Build Status](https://travis-ci.org/brexocoin/brexocoin.svg?branch=master)](https://travis-ci.org/brexocoin/brexocoin) `develop:` [![Build Status](https://travis-ci.org/brexocoin/brexocoin.svg?branch=develop)](https://travis-ci.org/brexocoin/brexocoin/branches)
 
-https://www.brexocoin.org
+http://www.brexocoin.com
 
 
 What is Brexocoin?
@@ -16,7 +16,7 @@ are carried out collectively by the network. Brexocoin Core is the name of the o
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Brexocoin Core software, see https://www.brexocoin.org/get-brexocoin/.
+the Brexocoin Core software, see http://www.brexocoin.com/get-brexocoin/.
 
 
 License
@@ -74,4 +74,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.brexocoin.org/forum/topic/brexocoin-worldwide-collaboration.88/).
+Translators should also follow the [forum](http://www.brexocoin.com/forum/topic/brexocoin-worldwide-collaboration.88/).
