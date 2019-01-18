@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Brexocoin Core
+Comment=Brexocoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Brexocoin peer-to-peer Netzwerk
+Comment[fr]=Brexocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Brexocoin, eşten eşe kriptografik sanal para birimi
+Exec=brexocoin-qt %u
+Terminal=false
+Type=Application
+Icon=brexocoin128
+MimeType=x-scheme-handler/brexocoin;
+Categories=Office;Finance;

@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/brexocoin_bg.qm</file>
+        <file alias="de">locale/brexocoin_de.qm</file>
+        <file alias="en">locale/brexocoin_en.qm</file>
+        <file alias="es">locale/brexocoin_es.qm</file>
+        <file alias="fi">locale/brexocoin_fi.qm</file>
+        <file alias="fr">locale/brexocoin_fr.qm</file>
+        <file alias="it">locale/brexocoin_it.qm</file>
+        <file alias="ja">locale/brexocoin_ja.qm</file>
+        <file alias="nl">locale/brexocoin_nl.qm</file>
+        <file alias="pl">locale/brexocoin_pl.qm</file>
+        <file alias="pt">locale/brexocoin_pt.qm</file>
+        <file alias="ru">locale/brexocoin_ru.qm</file>
+        <file alias="sk">locale/brexocoin_sk.qm</file>
+        <file alias="sv">locale/brexocoin_sv.qm</file>
+        <file alias="vi">locale/brexocoin_vi.qm</file>
+        <file alias="zh_CN">locale/brexocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/brexocoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

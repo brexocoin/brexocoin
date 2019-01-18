@@ -1,0 +1,22 @@
+[Unit]
+Description=Brexocoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=brexocoincore
+Group=brexocoincore
+
+Type=forking
+PIDFile=/var/lib/brexocoind/brexocoind.pid
+ExecStart=/usr/bin/brexocoind -daemon -pid=/var/lib/brexocoind/brexocoind.pid \
+-conf=/etc/brexocoincore/brexocoin.conf -datadir=/var/lib/brexocoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

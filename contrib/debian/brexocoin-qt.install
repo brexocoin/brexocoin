@@ -1,0 +1,6 @@
+usr/local/bin/brexocoin-qt usr/bin
+share/pixmaps/brexocoin32.xpm usr/share/pixmaps
+share/pixmaps/brexocoin16.xpm usr/share/pixmaps
+share/pixmaps/brexocoin128.png usr/share/pixmaps
+debian/brexocoin-qt.desktop usr/share/applications
+debian/brexocoin-qt.protocol usr/share/kde4/services/
